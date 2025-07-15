@@ -26,7 +26,7 @@ It processes mock RBC trade data to simulate:
 
 ---
 
-## How to View the Interactive Dashboard (No Installation Needed)
+## Instructions (No Installation Needed)
 
 You can **view and run everything directly in your browser** using Google Colab:
 
@@ -40,7 +40,7 @@ Step 3. At the top of the notebook preview, click:
    **“Open in Colab”**
 
 Step 4. In Colab, click the button:  
-   **`Click **“Run all”** from the top, just below "tools".
+   **`Click **“Run All”** from the top, just below "tools" -> Run Anyways.
 
 Step 5. Wait a few seconds, then scroll down to see all the results of this system:
 
