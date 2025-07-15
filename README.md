@@ -5,7 +5,7 @@ Developed a lightweight system simulating RBC’s front-to-back trade operations
 
 📊 A Python-based operational risk automation dashboard built using **Google Colab**, simulating trade match data for Royal Bank of Canada (RBC). This dashboard identifies unmatched trades, late confirmations, and CTM allocation issues, and visualizes the insights using interactive charts.
 
-Author: **Danish Aizzat**  
+Author: **Danish Aizzat Bin Shaifulnizam**  
 Email: **danishaizzat@gmail.com**  
 Location: **Cyberjaya, Malaysia**  
 Date Created: **July 2025**
@@ -16,11 +16,11 @@ Date Created: **July 2025**
 
 This project automates operational risk analysis for trade matching operations. It processes mock RBC trade data to simulate:
 
-- ✅ Match status detection (Matched, Unmatched, Late)
-- 📅 End-of-day breach detection (after 3PM)
-- 📤 CTM allocation tracking
-- 🏦 Confirmation status by counterparty
-- 📊 Visual risk dashboards for decision-makers
+- Match status detection (Matched, Unmatched, Late)
+- End-of-day breach detection (after 3PM)
+- CTM allocation tracking
+- Confirmation status by counterparty
+- Visual risk dashboards for decision-makers
 
 ---
 
@@ -31,16 +31,16 @@ You can **view and run everything directly in your browser** using Google Colab:
 Step 1. Go to the GitHub repo:  
    [🔗 RBC Operational Risk Automation System (GitHub)](https://github.com/danish330/Royal-Bank-of-Canada-Operational-Risk-Automation-System-)
 
-2. Click on:  
+Step 2. Click on:  
    **`Royal_Bank_of_Canada_Operational_Risk_Automation_System.ipynb`**
 
-3. At the top of the notebook preview, click:  
+Step 3. At the top of the notebook preview, click:  
    **“Open in Colab”**
 
-4. In Colab, click the button:  
+Step 4. In Colab, click the button:  
    **`Click **“Run all”** from the top, just below "tools".
 
-5. Wait a few seconds, then scroll down to see all the results of this system:
+Step 5. Wait a few seconds, then scroll down to see all the results of this system:
 
    - ✅ Trade Match Status (Pie Chart)
    - 📤 CTM Allocation Status (Pie Chart)
