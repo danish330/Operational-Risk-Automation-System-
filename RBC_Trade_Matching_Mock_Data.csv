@@ -1,0 +1,101 @@
+Trade_ID,Trade_Date,Country,Service_Type,Match_Status,Match_Time,CTM_Allocated,Trader_Name,Counterparty
+T1000,2022-07-18,Caribbean small states,"Computer, communications and other services (% of commercial service imports)",Unmatched,14:06,Yes,Aizzat,HSBC
+T1001,2022-07-06,Eswatini,"Computer, communications and other services (% of commercial service exports)",Matched Late,10:07,Yes,Ali,Morgan Stanley
+T1002,2022-07-04,Rwanda,"Computer, communications and other services (% of commercial service imports)",Matched,8:17,No,Amir,HSBC
+T1003,2022-07-19,American Samoa,"Computer, communications and other services (% of commercial service imports)",Matched Late,12:03,No,Ali,Citi
+T1004,2022-07-29,Not classified,"Computer, communications and other services (% of commercial service exports)",Unmatched,17:31,No,Nurul,Goldman Sachs
+T1005,2022-07-26,Argentina,"Computer, communications and other services (% of commercial service imports)",Matched,12:26,Yes,Ali,Goldman Sachs
+T1006,2022-07-19,El Salvador,"Computer, communications and other services (% of commercial service exports)",Matched,16:22,Yes,Sarah,Citi
+T1007,2022-07-21,Mauritania,"Computer, communications and other services (% of commercial service imports)",Matched,11:11,No,Aizzat,Morgan Stanley
+T1008,2022-07-24,Lao PDR,"Computer, communications and other services (% of commercial service imports)",Matched Late,11:13,Yes,Amir,Goldman Sachs
+T1009,2022-07-05,Romania,"Computer, communications and other services (% of commercial service imports)",Matched,11:48,No,Nurul,Morgan Stanley
+T1010,2022-07-22,Poland,"Computer, communications and other services (% of commercial service imports)",Matched,10:11,Yes,Aizzat,JPMorgan
+T1011,2022-07-31,Denmark,"Computer, communications and other services (% of commercial service imports)",Matched Late,17:09,No,Nurul,Morgan Stanley
+T1012,2022-07-27,New Zealand,"Computer, communications and other services (% of commercial service exports)",Matched,14:05,No,Amir,JPMorgan
+T1013,2022-07-18,Somalia,"Computer, communications and other services (% of commercial service imports)",Matched,14:39,Yes,Nurul,HSBC
+T1014,2022-07-10,Latin America & Caribbean (excluding high income),"Computer, communications and other services (% of commercial service imports)",Matched,17:47,No,Nurul,Goldman Sachs
+T1015,2022-07-09,Kazakhstan,"Computer, communications and other services (% of commercial service exports)",Matched Late,17:24,Yes,Amir,HSBC
+T1016,2022-07-18,Estonia,"Computer, communications and other services (% of commercial service imports)",Matched Late,14:26,No,Ali,Morgan Stanley
+T1017,2022-07-15,IDA total,"Computer, communications and other services (% of commercial service exports)",Matched,9:19,Yes,Sarah,JPMorgan
+T1018,2022-07-28,South Africa,"Computer, communications and other services (% of commercial service imports)",Unmatched,10:16,Yes,Nurul,Goldman Sachs
+T1019,2022-07-04,Upper middle income,"Computer, communications and other services (% of commercial service imports)",Unmatched,16:39,Yes,Ali,Citi
+T1020,2022-07-28,Isle of Man,"Computer, communications and other services (% of commercial service exports)",Matched Late,11:09,Yes,Sarah,Citi
+T1021,2022-07-20,Ethiopia,"Computer, communications and other services (% of commercial service imports)",Matched,10:02,Yes,Sarah,HSBC
+T1022,2022-07-16,South Asia,"Computer, communications and other services (% of commercial service imports)",Matched Late,15:44,No,Sarah,Goldman Sachs
+T1023,2022-07-27,Liechtenstein,"Computer, communications and other services (% of commercial service imports)",Unmatched,8:27,No,Nurul,Goldman Sachs
+T1024,2022-07-09,"Congo, Dem. Rep.","Computer, communications and other services (% of commercial service exports)",Unmatched,15:16,No,Ali,Goldman Sachs
+T1025,2022-07-03,Sudan,"Computer, communications and other services (% of commercial service imports)",Unmatched,16:36,Yes,Sarah,Morgan Stanley
+T1026,2022-07-31,Kosovo,"Computer, communications and other services (% of commercial service imports)",Unmatched,9:56,No,Nurul,HSBC
+T1027,2022-07-11,Portugal,"Computer, communications and other services (% of commercial service exports)",Unmatched,10:47,No,Nurul,Goldman Sachs
+T1028,2022-07-13,Latin America & Caribbean (excluding high income),"Computer, communications and other services (% of commercial service exports)",Unmatched,8:09,No,Ali,Morgan Stanley
+T1029,2022-07-04,Pacific island small states,"Computer, communications and other services (% of commercial service imports)",Matched Late,9:02,No,Ali,Goldman Sachs
+T1030,2022-07-23,Sub-Saharan Africa (excluding high income),"Computer, communications and other services (% of commercial service exports)",Matched,14:04,Yes,Amir,Morgan Stanley
+T1031,2022-07-09,Paraguay,"Computer, communications and other services (% of commercial service exports)",Matched Late,9:06,No,Nurul,JPMorgan
+T1032,2022-07-29,Middle East & North Africa,"Computer, communications and other services (% of commercial service imports)",Matched Late,13:03,No,Ali,Morgan Stanley
+T1033,2022-07-02,United Kingdom,"Computer, communications and other services (% of commercial service exports)",Unmatched,17:20,Yes,Nurul,Citi
+T1034,2022-07-14,Kazakhstan,"Computer, communications and other services (% of commercial service exports)",Matched,17:53,Yes,Sarah,HSBC
+T1035,2022-07-23,Philippines,"Computer, communications and other services (% of commercial service exports)",Unmatched,9:57,Yes,Aizzat,JPMorgan
+T1036,2022-07-30,European Union,"Computer, communications and other services (% of commercial service exports)",Unmatched,17:30,No,Nurul,Citi
+T1037,2022-07-12,Malawi,"Computer, communications and other services (% of commercial service exports)",Matched,16:49,No,Ali,Morgan Stanley
+T1038,2022-07-23,Netherlands,"Computer, communications and other services (% of commercial service exports)",Matched,17:51,No,Amir,Goldman Sachs
+T1039,2022-07-08,Switzerland,"Computer, communications and other services (% of commercial service imports)",Matched Late,15:06,No,Ali,JPMorgan
+T1040,2022-07-11,Kenya,"Computer, communications and other services (% of commercial service exports)",Matched,8:51,Yes,Ali,Goldman Sachs
+T1041,2022-07-14,Equatorial Guinea,"Computer, communications and other services (% of commercial service imports)",Matched,11:48,Yes,Nurul,HSBC
+T1042,2022-07-20,"Egypt, Arab Rep.","Computer, communications and other services (% of commercial service imports)",Matched,14:18,No,Sarah,Morgan Stanley
+T1043,2022-07-01,Senegal,"Computer, communications and other services (% of commercial service exports)",Matched Late,8:01,No,Sarah,Goldman Sachs
+T1044,2022-07-18,Turks and Caicos Islands,"Computer, communications and other services (% of commercial service exports)",Matched,16:27,No,Amir,Citi
+T1045,2022-07-29,Samoa,"Computer, communications and other services (% of commercial service imports)",Unmatched,12:05,Yes,Nurul,Morgan Stanley
+T1046,2022-07-04,Not classified,"Computer, communications and other services (% of commercial service imports)",Unmatched,9:57,Yes,Sarah,Goldman Sachs
+T1047,2022-07-13,Estonia,"Computer, communications and other services (% of commercial service exports)",Unmatched,8:03,Yes,Aizzat,Citi
+T1048,2022-07-18,"Congo, Dem. Rep.","Computer, communications and other services (% of commercial service exports)",Matched Late,15:28,Yes,Ali,Morgan Stanley
+T1049,2022-07-04,Russian Federation,"Computer, communications and other services (% of commercial service exports)",Matched,8:29,Yes,Nurul,HSBC
+T1050,2022-07-08,Uganda,"Computer, communications and other services (% of commercial service exports)",Matched Late,10:10,Yes,Nurul,JPMorgan
+T1051,2022-07-09,Puerto Rico,"Computer, communications and other services (% of commercial service exports)",Unmatched,10:55,Yes,Nurul,Citi
+T1052,2022-07-16,Last Updated: 10/26/2023,"Computer, communications and other services (% of commercial service exports)",Unmatched,13:57,Yes,Nurul,Morgan Stanley
+T1053,2022-07-13,Benin,"Computer, communications and other services (% of commercial service imports)",Matched Late,11:26,Yes,Amir,HSBC
+T1054,2022-07-17,Malta,"Computer, communications and other services (% of commercial service imports)",Matched Late,16:25,No,Amir,JPMorgan
+T1055,2022-07-22,Bahrain,"Computer, communications and other services (% of commercial service exports)",Matched Late,15:01,Yes,Amir,Citi
+T1056,2022-07-23,Spain,"Computer, communications and other services (% of commercial service imports)",Matched,9:11,No,Aizzat,Citi
+T1057,2022-07-19,Somalia,"Computer, communications and other services (% of commercial service exports)",Unmatched,15:07,No,Sarah,Morgan Stanley
+T1058,2022-07-13,Faroe Islands,"Computer, communications and other services (% of commercial service exports)",Matched,10:02,No,Nurul,JPMorgan
+T1059,2022-07-06,Sudan,"Computer, communications and other services (% of commercial service imports)",Matched Late,17:54,Yes,Aizzat,HSBC
+T1060,2022-07-15,Liberia,"Computer, communications and other services (% of commercial service imports)",Matched Late,14:41,Yes,Sarah,HSBC
+T1061,2022-07-06,Trinidad and Tobago,"Computer, communications and other services (% of commercial service exports)",Unmatched,17:03,No,Nurul,JPMorgan
+T1062,2022-07-20,"Hong Kong SAR, China","Computer, communications and other services (% of commercial service exports)",Matched Late,9:29,Yes,Aizzat,Citi
+T1063,2022-07-19,Aruba,"Computer, communications and other services (% of commercial service imports)",Matched,16:40,No,Sarah,Goldman Sachs
+T1064,2022-07-04,Palau,"Computer, communications and other services (% of commercial service imports)",Matched Late,10:11,Yes,Nurul,JPMorgan
+T1065,2022-07-06,San Marino,"Computer, communications and other services (% of commercial service exports)",Unmatched,16:17,No,Amir,HSBC
+T1066,2022-07-20,Bolivia,"Computer, communications and other services (% of commercial service exports)",Matched,9:14,Yes,Nurul,Goldman Sachs
+T1067,2022-07-06,Guam,"Computer, communications and other services (% of commercial service imports)",Unmatched,14:17,Yes,Nurul,Goldman Sachs
+T1068,2022-07-23,Samoa,"Computer, communications and other services (% of commercial service exports)",Matched Late,14:58,No,Nurul,JPMorgan
+T1069,2022-07-06,South Sudan,"Computer, communications and other services (% of commercial service exports)",Matched,15:04,Yes,Amir,Goldman Sachs
+T1070,2022-07-19,"Bahamas, The","Computer, communications and other services (% of commercial service exports)",Matched,17:29,Yes,Sarah,Goldman Sachs
+T1071,2022-07-17,Kiribati,"Computer, communications and other services (% of commercial service exports)",Matched Late,16:32,Yes,Ali,JPMorgan
+T1072,2022-07-04,Tonga,"Computer, communications and other services (% of commercial service imports)",Matched Late,8:27,No,Ali,Morgan Stanley
+T1073,2022-07-06,Belize,"Computer, communications and other services (% of commercial service imports)",Matched,16:31,Yes,Amir,HSBC
+T1074,2022-07-16,Sub-Saharan Africa (excluding high income),"Computer, communications and other services (% of commercial service exports)",Matched Late,10:02,Yes,Sarah,Citi
+T1075,2022-07-11,Singapore,"Computer, communications and other services (% of commercial service imports)",Unmatched,12:14,Yes,Nurul,Morgan Stanley
+T1076,2022-07-09,Uruguay,"Computer, communications and other services (% of commercial service exports)",Matched,11:05,No,Sarah,Goldman Sachs
+T1077,2022-07-09,Aruba,"Computer, communications and other services (% of commercial service imports)",Matched Late,17:14,No,Sarah,JPMorgan
+T1078,2022-07-29,"Iran, Islamic Rep.","Computer, communications and other services (% of commercial service imports)",Matched,11:53,No,Amir,Goldman Sachs
+T1079,2022-07-14,Syrian Arab Republic,"Computer, communications and other services (% of commercial service imports)",Matched Late,10:37,No,Aizzat,JPMorgan
+T1080,2022-07-16,Azerbaijan,"Computer, communications and other services (% of commercial service exports)",Unmatched,12:06,No,Amir,Goldman Sachs
+T1081,2022-07-15,Africa Western and Central,"Computer, communications and other services (% of commercial service imports)",Unmatched,9:22,Yes,Ali,Morgan Stanley
+T1082,2022-07-03,France,"Computer, communications and other services (% of commercial service exports)",Matched,15:04,Yes,Sarah,Goldman Sachs
+T1083,2022-07-08,Not classified,"Computer, communications and other services (% of commercial service imports)",Matched,16:51,Yes,Ali,Morgan Stanley
+T1084,2022-07-12,Africa Western and Central,"Computer, communications and other services (% of commercial service exports)",Matched Late,11:08,No,Ali,JPMorgan
+T1085,2022-07-24,Papua New Guinea,"Computer, communications and other services (% of commercial service exports)",Unmatched,14:25,No,Aizzat,HSBC
+T1086,2022-07-25,Bangladesh,"Computer, communications and other services (% of commercial service imports)",Matched,15:59,No,Nurul,HSBC
+T1087,2022-07-18,Latvia,"Computer, communications and other services (% of commercial service imports)",Matched,13:13,Yes,Amir,HSBC
+T1088,2022-07-31,United States,"Computer, communications and other services (% of commercial service exports)",Matched Late,12:47,No,Sarah,Citi
+T1089,2022-07-08,World,"Computer, communications and other services (% of commercial service exports)",Matched,8:05,No,Sarah,HSBC
+T1090,2022-07-17,Tajikistan,"Computer, communications and other services (% of commercial service imports)",Matched Late,14:16,No,Sarah,HSBC
+T1091,2022-07-27,Guam,"Computer, communications and other services (% of commercial service exports)",Matched,17:35,No,Amir,HSBC
+T1092,2022-07-06,Czechia,"Computer, communications and other services (% of commercial service imports)",Matched Late,14:54,Yes,Ali,Morgan Stanley
+T1093,2022-07-22,Hungary,"Computer, communications and other services (% of commercial service imports)",Matched Late,15:04,Yes,Aizzat,Citi
+T1094,2022-07-17,Panama,"Computer, communications and other services (% of commercial service exports)",Matched,13:01,No,Nurul,Goldman Sachs
+T1095,2022-07-17,South Sudan,"Computer, communications and other services (% of commercial service exports)",Matched,14:55,Yes,Ali,Citi
+T1096,2022-07-30,Mongolia,"Computer, communications and other services (% of commercial service exports)",Matched,13:31,Yes,Sarah,Goldman Sachs
+T1097,2022-07-03,Spain,"Computer, communications and other services (% of commercial service imports)",Unmatched,14:20,No,Ali,Citi
+T1098,2022-07-04,Solomon Islands,"Computer, communications and other services (% of commercial service imports)",Matched Late,13:02,Yes,Amir,Morgan Stanley
+T1099,2022-07-14,Mexico,"Computer, communications and other services (% of commercial service exports)",Unmatched,12:31,No,Sarah,Citi
