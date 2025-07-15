@@ -14,7 +14,9 @@ Date Created: **July 2025**
 
 ## 📌 Project Overview
 
-This project automates operational risk analysis for trade matching operations. It processes mock RBC trade data to simulate:
+This project automates operational risk analysis for trade matching workflows, simulating RBC’s daily support tasks using mock trade data. It detects late matches, monitors CTM allocations, identifies unmatched confirmations, and flags end-of-day breaches. The system produces visual dashboards and audit logs to support trade validation, risk escalation, and reporting accuracy, closely aligning with real RBC operations.
+
+It processes mock RBC trade data to simulate:
 
 - Match status detection (Matched, Unmatched, Late)
 - End-of-day breach detection (after 3PM)
